@@ -234,6 +234,7 @@ const Wrapper = styled.div`
     .title {
       font-size: 38px;
       margin: 15px auto;
+      text-transform: capitalize;
     }
 
     .items {

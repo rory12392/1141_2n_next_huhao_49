@@ -130,6 +130,9 @@ const Navbar_49 = () => {
                     <li className='menu-item'>
                       <Link href='#'>W5-BlogSupa_49</Link>
                     </li>
+                    <li className='menu-item'>
+                        <Link href='/demo/shop_49/node'>W11-ShopNode_49</Link>
+                    </li>
                   </ul>
                 </div>
               </li>
