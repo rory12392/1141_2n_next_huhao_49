@@ -6,7 +6,7 @@ const NavbarShopSupa_49 = () => {
   return (
     <Wrapper>
       <div className='header'>
-        <Link href='/exams/shop_49/supa' className='logo-container'>
+        <Link href='/demo/shop_49/supa' className='logo-container'>
           <img src='/images/midterm/assets/crown.svg' />
         </Link>
         <div className='options'>
