@@ -25,92 +25,6 @@ const Navbar_49 = () => {
                 </Link>
               </li>
 
-              {/* <li className='menu-item mega-menu'>
-                <Link href='#'>Mega menu +</Link>
-                <div className='mega-menu-wrapper slideInUp'>
-                  <div className='mega-menu-col'>
-                    <h5>Menu block 1</h5>
-                    <ul className='mega-sub-menu'>
-                      <li>
-                        <Link href='#'>Menu block item 1</Link>
-                      </li>
-                      <li>
-                        <Link href='#'>Menu block item 2</Link>
-                      </li>
-                      <li>
-                        <Link href='#'>Menu block item 3</Link>
-                      </li>
-                      <li>
-                        <Link href='#'>Menu block item 4</Link>
-                      </li>
-                      <li>
-                        <Link href='#'>Menu block item 5</Link>
-                      </li>
-                    </ul>
-                  </div>
-                  <div className='mega-menu-col'>
-                    <h5>Menu block 2</h5>
-                    <ul className='mega-sub-menu'>
-                      <li>
-                        <Link href='#'>Menu block item 1</Link>
-                      </li>
-                      <li>
-                        <Link href='#'>Menu block item 2</Link>
-                      </li>
-                      <li>
-                        <Link href='#'>Menu block item 3</Link>
-                      </li>
-                      <li>
-                        <Link href='#'>Menu block item 4</Link>
-                      </li>
-                      <li>
-                        <Link href='#'>Menu block item 5</Link>
-                      </li>
-                    </ul>
-                  </div>
-                  <div className='mega-menu-col'>
-                    <h5>Menu block 3</h5>
-                    <ul className='mega-sub-menu'>
-                      <li>
-                        <Link href='#'>Menu block item 1</Link>
-                      </li>
-                      <li>
-                        <Link href='#'>Menu block item 2</Link>
-                      </li>
-                      <li>
-                        <Link href='#'>Menu block item 3</Link>
-                      </li>
-                      <li>
-                        <Link href='#'>Menu block item 4</Link>
-                      </li>
-                      <li>
-                        <Link href='#'>Menu block item 5</Link>
-                      </li>
-                    </ul>
-                  </div>
-                  <div className='mega-menu-col'>
-                    <h5>Menu block 4</h5>
-                    <ul className='mega-sub-menu'>
-                      <li>
-                        <Link href='#'>Menu block item 1</Link>
-                      </li>
-                      <li>
-                        <Link href='#'>Menu block item 2</Link>
-                      </li>
-                      <li>
-                        <Link href='#'>Menu block item 3</Link>
-                      </li>
-                      <li>
-                        <Link href='#'>Menu block item 4</Link>
-                      </li>
-                      <li>
-                        <Link href='#'>Menu block item 5</Link>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </li> */}
-
               <li className='menu-item dropdown'>
                 <Link href='#'>Demo +</Link>
                 <div className='sub-menu-wrapper slideInUp'>
@@ -131,10 +45,10 @@ const Navbar_49 = () => {
                       <Link href='#'>W5-BlogSupa_49</Link>
                     </li>
                     <li className='menu-item'>
-                        <Link href='/demo/shop_49/node'>W11-ShopNode_49</Link>
+                      <Link href='/demo/shop_49/node'>W11-ShopNode_49</Link>
                     </li>
                     <li className='menu-item'>
-                        <Link href='/demo/shop_49/supa'>W12-ShopSupa_49</Link>
+                      <Link href='/demo/shop_49/supa'>W12-ShopSupa_49</Link>
                     </li>
                   </ul>
                 </div>
@@ -152,6 +66,11 @@ const Navbar_49 = () => {
                     <li className='menu-item'>
                       <Link href='/tuhrefrials/t12_49'>
                         T12_UseStateBasicsPage_49
+                      </Link>
+                    </li>
+                    <li className='menu-item'>
+                      <Link href='/tutorials/context/1_propdrilling_49'>
+                        W13_PropDrilling_49
                       </Link>
                     </li>
                   </ul>
