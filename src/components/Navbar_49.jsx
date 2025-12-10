@@ -73,6 +73,11 @@ const Navbar_49 = () => {
                         W13_PropDrilling_49
                       </Link>
                     </li>
+                    <li className='menu-item'>
+                      <Link href='/tutorials/context/2_context_people_49'>
+                        W13_ContextPeople_49
+                      </Link>
+                    </li>
                   </ul>
                 </div>
               </li>
