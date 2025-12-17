@@ -4,7 +4,7 @@ import { useState } from 'react';
 
 import blogData_49 from '../../_assets/data/blogData.json';
 import Blog2_49 from '../../_components/Blog2_49';
-import Wrapper from '../../_assets/wrapper/Blog2_49';
+import Wrapper from '../../_assets/Wrapper/Blog2_49';
 import Alert_49 from '../../_components/Alert_49';
 
 const BlogLocalJsonPage2_49 = () => {

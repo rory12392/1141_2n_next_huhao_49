@@ -1,5 +1,5 @@
 import React from 'react';
-import Wrapper from '../_assets/wrapper/Navbar_49';
+import Wrapper from '../_assets/Wrapper/Navbar_49';
 // import { Link } from 'react-router-dom';
 import Link from 'next/link';
 
