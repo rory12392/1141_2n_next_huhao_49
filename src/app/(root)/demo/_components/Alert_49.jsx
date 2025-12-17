@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 
-const Alert_xx = ({ alert, showAlert }) => {
+const Alert_49 = ({ alert, showAlert }) => {
   useEffect(() => {
     const timeout = setTimeout(() => {
       showAlert();
@@ -23,4 +23,4 @@ const Alert_xx = ({ alert, showAlert }) => {
   }
 };
 
-export default Alert_xx;
+export default Alert_49;
