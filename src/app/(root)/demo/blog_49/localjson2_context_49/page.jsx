@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 
-import Blog2_49 from './_components/Blog2_49.jsx';
+import BlogList2_49 from './_components/BlogList2_49.jsx';
 import Wrapper from '../../_assets/Wrapper/Blog2_49';
 import Alert_49 from '../../_components/Alert_49';
 
@@ -37,22 +37,7 @@ const Content_49 = () => {
             blogs context from local json 2 -- {name}, {id}{' '}
           </h2>
         </div>
-        <div className='blogs-center'>
-          {blogs_49.map((item) => {
-            const { id, title, descrip, category, img } = item;
-            return (
-              <Blog2_49
-                key={id}
-                id={id}
-                title={title}
-                descrip={descrip}
-                category={category}
-                img={img}
-                removeItem={removeItem}
-              />
-            );
-          })}
-        </div>
+        <BlogList2_49 />
         <div className='flex justify-center items-center gap-8 mt-8'>
           <button
             type='button'
