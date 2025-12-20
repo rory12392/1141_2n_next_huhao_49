@@ -56,6 +56,9 @@ const Navbar_49 = () => {
                     <li className='menu-item'>
                       <Link href='/demo/blog_49/localjson2_context_49'>W13-BlogLJ2Context_49</Link>
                     </li>
+                    <li className='menu-item'>
+                      <Link href='/demo/grocery_49'>W14-Grocery_49</Link>
+                    </li>
                   </ul>
                 </div>
               </li>
