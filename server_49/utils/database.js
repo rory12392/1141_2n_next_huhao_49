@@ -7,7 +7,7 @@ if (process.env.DATABASE === 'LOCAL') {
     host: 'localhost',
     port: '5432',
     user: 'postgres',
-    password: 'rr1119',
+    password: '0000',
     database: 'wp1_demo_49',
   });
   console.log('Connecting local database', pool.options.database);
